@@ -1,0 +1,26 @@
+Here's what you need to prepare for
+Science:
+  -Math:
+    -Approximation Techniques:
+      -Leapfrog Integration
+      -Verlet Integration
+      -Runge Kutta 4th Order
+    -Calculus and Vector:
+      -Cross Product
+      -Dot Product
+      -Vector Norm
+    -Differential Equations:
+      -ODEs
+    -Coordinate Systems
+      -Cartesion/Polar/Spherical
+
+  -Physics:
+    -Fundamental Laws:
+      -Conservation law
+      -Momentum Conservation
+      -Angular Momentum Conservation
+    -Laws applied:
+      -Newton Gravitational Law
+      -Newton Second Law
+      -Kepler’s Laws of Planetary Motion
+      -Center of Mass Frame
