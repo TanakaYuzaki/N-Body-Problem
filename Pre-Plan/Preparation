@@ -24,7 +24,16 @@ Science:
       -Newton Second Law
       -Kepler’s Laws of Planetary Motion
       -Center of Mass Frame
+  
 
+Programming:
+  -C++:
+    -Eigen (For Math and Physics) -> Linear Algebra
+    -Boost (For Math and Physics) -> ODEs and geometry
+    -GSL (GNU Scientific Library) (For Math and Physics) -> Approximation
+    -Matplotlib-cpp (For Visualization)
+    -SFML (Simple and Fast Multimedia Library)
+    -OpenGL or Vulkan
 Application:
   -Satellite trajectories
   -Binary star systems
